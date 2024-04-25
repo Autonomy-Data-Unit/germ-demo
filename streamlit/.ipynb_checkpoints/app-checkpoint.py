@@ -15,6 +15,9 @@ from utils import *
 
 st.set_page_config(layout="wide", page_title="GERM", page_icon='./data/favicon.png')
 
+with open('./streamlit/style.css') as f:
+        st.markdown(f'<style>{f.read()}</style>', unsafe_allow_html=True)
+    
 custom_css = """
 <style>
     html, body, [class*="st-"] {
