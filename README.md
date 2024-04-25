@@ -3,4 +3,4 @@ GERM is a tool for monitoring the geopolitical and environmental risks mentioned
 
 ![Germ](/data/germ.png)
 ![Embeddings](/data/embeddings.png)
-![Country](/data/country.png)
+![Country](/data/global.png)
