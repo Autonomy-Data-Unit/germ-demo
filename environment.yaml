@@ -1,0 +1,5 @@
+name: germ
+channels:
+  - defaults
+dependencies:
+  - python=3.10
