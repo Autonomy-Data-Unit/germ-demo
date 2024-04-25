@@ -14,7 +14,7 @@ import glob
 from utils import *
 
 st.set_page_config(layout="wide", page_title="GERM", page_icon='./data/favicon.png')
-
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap")
 custom_css = """
 <style>
     html, body, [class*="st-"] {
